@@ -15,3 +15,19 @@ https://youtu.be/AQMe5FkNITw
 Play easily with graph with this software.
 
 A short video is the easier way to show the features.
+
+
+Add and remove vertices and edges.
+
+Very simple. Drag vertices around and create edges with Right Click.
+
+We can see here that K2,3 can be planar just by playing with it a few minutes
+The software is in the following zip. Just uncompress it and run the .jar.
+
+egraph.jar
+
+Some applications:
+
+1. Convince yourself that K2,3 is a planar graph just by playing around.
+
+2. Convince yourself that a graph with 8 vertices of degree 5 each is not planar by playing around with it. Then rebuild it with K2,4.
