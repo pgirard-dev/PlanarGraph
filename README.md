@@ -19,7 +19,11 @@ A short video is the easier way to show the features.
 
 Add and remove vertices and edges.
 
+<img class="alignnone wp-image-4 size-medium" src="http://blog.webstep.ca/wp-content/uploads/2015/05/Screen-Shot-2015-05-10-at-9.02.31-PM-300x300.png" alt="Screen Shot 2015-05-10 at 9.02.31 PM" width="300" height="300">
+
 Very simple. Drag vertices around and create edges with Right Click.
+
+<img class="wp-image-5 size-medium" src="http://blog.webstep.ca/wp-content/uploads/2015/05/Screen-Shot-2015-05-10-at-9.05.47-PM-193x300.png" alt="Screen Shot 2015-05-10 at 9.05.47 PM" width="193" height="300">
 
 We can see here that K2,3 can be planar just by playing with it a few minutes
 The software is in the following zip. Just uncompress it and run the .jar.
