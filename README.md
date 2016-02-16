@@ -10,3 +10,8 @@ https://youtu.be/Ay3oho-29g8
 https://youtu.be/G2IBIsB6ckk
 https://youtu.be/AQMe5FkNITw
 
+<hr>
+
+Play easily with graph with this software.
+
+A short video is the easier way to show the features.
