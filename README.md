@@ -24,7 +24,7 @@ Very simple. Drag vertices around and create edges with Right Click.
 We can see here that K2,3 can be planar just by playing with it a few minutes
 The software is in the following zip. Just uncompress it and run the .jar.
 
-egraph.jar
+<a href="http://blog.webstep.ca/wp-content/uploads/2015/05/egraph.jar_.zip">egraph.jar</a>
 
 Some applications:
 
