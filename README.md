@@ -5,7 +5,7 @@ Tout le code est fait par Philippe Girard.
 
 Voir mon blog pour plus de description: http://blog.webstep.ca/
 
-Vidéos youtubes:
+Vidéos youtubes:<br/>
 https://youtu.be/Ay3oho-29g8<br/>
 https://youtu.be/G2IBIsB6ckk<br/>
 https://youtu.be/AQMe5FkNITw<br/>
